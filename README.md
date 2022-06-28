@@ -4,7 +4,7 @@ A polynomial expressions evaluator in OCaml entirely made using the functional p
 
 ### Made by:
 
-* Diogo Silvério
+* Diogo Silvério (Self)
 * João Marques
 
 ### Folder Content:
